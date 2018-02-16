@@ -4,5 +4,14 @@
     "values": [
       {"src": "bloomberg/wsk", "opts": {}}
     ]
+  },
+  {
+    "action": "remove",
+    "values": [
+      "CONTRIBUTING.md",
+      "DCO.md",
+      "LICENSE.md",
+      "CHANGELOG.md"
+    ]
   }
 ]

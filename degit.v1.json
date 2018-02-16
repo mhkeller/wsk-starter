@@ -1,0 +1,8 @@
+[
+  {
+    "action": "clone",
+    "values": [
+      {"src": "bloomberg/wsk", "opts": {}}
+    ]
+  }
+]
