@@ -10,7 +10,8 @@
     "values": [
       "CONTRIBUTING.md",
       "DCO.md",
-      "LICENSE.md",
+      "LICENSE",
+      "HOW-DID-WE-GET-HERE.md",
       "CHANGELOG.md"
     ]
   }
