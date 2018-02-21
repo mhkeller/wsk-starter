@@ -2,7 +2,7 @@
   {
     "action": "clone",
     "values": [
-      {"src": "bloomberg/wsk", "opts": {}}
+      {"src": "bloomberg/wsk.example", "opts": {}}
     ]
   },
   {
