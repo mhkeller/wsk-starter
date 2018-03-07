@@ -9,6 +9,7 @@
       "CONTRIBUTING.md",
       "not-here.huh",
       "public",
+      "src/js/modules",
       "DCO.md",
       "LICENSE",
       "CHANGELOG.md"
