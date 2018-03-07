@@ -1,13 +1,11 @@
 [
   {
     "action": "clone",
-    "values": [
-      {"src": "bloomberg/wsk.example", "opts": {}}
-    ]
+    "src": "bloomberg/wsk.example"
   },
   {
     "action": "remove",
-    "values": [
+    "files": [
       "CONTRIBUTING.md",
       "DCO.md",
       "LICENSE",
