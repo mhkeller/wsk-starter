@@ -7,6 +7,8 @@
     "action": "remove",
     "files": [
       "CONTRIBUTING.md",
+      "not-here.huh",
+      "public",
       "DCO.md",
       "LICENSE",
       "CHANGELOG.md"
